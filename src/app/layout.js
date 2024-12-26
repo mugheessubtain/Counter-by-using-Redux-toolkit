@@ -18,7 +18,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <head>
-        <title>MERN TODO</title>
+        <title>Counter App</title>
       </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
